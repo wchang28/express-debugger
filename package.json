@@ -1,0 +1,14 @@
+{
+  "name": "express-debugger",
+  "version": "1.0.0",
+  "description": "Simple Express Debugger",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Wen Chang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
